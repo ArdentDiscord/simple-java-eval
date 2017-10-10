@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simple-java-eval.iml" filepath="$PROJECT_DIR$/simple-java-eval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-java-eval_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-java-eval_main.iml" group="simple-java-eval" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-java-eval_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-java-eval_test.iml" group="simple-java-eval" />
+    </modules>
+  </component>
+</project>
